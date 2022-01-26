@@ -32,7 +32,6 @@ public class WeatherFragment extends Fragment {
     private NavController controller;
     private WeatherFragmentArgs args;
     private String lol;
-
     public WeatherFragmentArgs getArgs() {
         return args;
     }
