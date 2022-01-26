@@ -11,6 +11,7 @@ import retrofit2.Callback;
 import retrofit2.Response;
 
 public class MainRepository {
+
     private WeatherApi api;
     private WeatherFragment weatherFragment=new WeatherFragment();
 
