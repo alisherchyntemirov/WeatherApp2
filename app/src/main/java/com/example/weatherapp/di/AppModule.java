@@ -2,7 +2,6 @@ package com.example.weatherapp.di;
 
 import com.example.weatherapp.data.remote.WeatherApi;
 import com.example.weatherapp.data.repository.MainRepository;
-
 import java.util.concurrent.TimeUnit;
 
 import dagger.Module;
