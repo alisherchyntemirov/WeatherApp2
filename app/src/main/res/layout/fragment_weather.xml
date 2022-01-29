@@ -6,7 +6,6 @@
     android:layout_height="match_parent"
     tools:context=".ui.fragments.weather_fragment.WeatherFragment">
 
-
     <ImageView
         android:id="@+id/iv_city"
         android:layout_width="match_parent"
@@ -450,8 +449,6 @@
 
         </androidx.constraintlayout.widget.ConstraintLayout>
 
-
     </androidx.cardview.widget.CardView>
-
 
 </androidx.constraintlayout.widget.ConstraintLayout>

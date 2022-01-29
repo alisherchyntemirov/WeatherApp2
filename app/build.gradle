@@ -67,5 +67,8 @@ dependencies {
     implementation "com.google.dagger:hilt-android:2.36"
     annotationProcessor "com.google.dagger:hilt-compiler:2.36"
 
+    def room_version = "2.4.1"
 
+    implementation "androidx.room:room-runtime:$room_version"
+    annotationProcessor "androidx.room:room-compiler:$room_version"
 }
